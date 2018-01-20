@@ -1,4 +1,13 @@
 * {
- box-sizing : border-box;
- border : 1px black solid;
- }
+    box-sizing: border-box;
+    border: 1px black solid;
+}
+
+body {
+    min-height: 100vh;
+}
+
+footer {
+    background: #f08;
+    color: #fff;
+}
